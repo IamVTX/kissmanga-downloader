@@ -13,7 +13,7 @@ services:
       - java
       - -jar
       - /kissmanga-downloader.jar
-      - http://kissmanga.com/Manga/Shingeki-no-Kyojin
+      -https://black-clovermanga.com/manga/black-clover-chapter-276/
   selenium:
     image: "elgalu/selenium:latest"
     ports:
